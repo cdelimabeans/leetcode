@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 92ms
+// Percentile Rank: 72.73%
+
 /**
  * @param {character[][]} grid
  * @return {number}

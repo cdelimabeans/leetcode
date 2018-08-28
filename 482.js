@@ -1,13 +1,11 @@
+// Status: Accepted
+// Runtime: 68ms
+// Percentile Rank: 94.57%
+
 /**
  * @param {string} S
  * @param {number} K
  * @return {string}
- */
-
-/**
- * Status: Accepted
- * Runtime: 68ms
- * Runtime rank: 94.57%
  */
 
 var licenseKeyFormatting = function(S, K) {

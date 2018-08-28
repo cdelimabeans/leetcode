@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 92ms
+// Percentile Rank: 87.78%
+
 /**
  * @param {number[][]} people
  * @return {number[][]}

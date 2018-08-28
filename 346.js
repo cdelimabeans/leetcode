@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 72ms
+// Percentile Rank: 86.86%
+
 /**
  * Initialize your data structure here.
  * @param {number} size

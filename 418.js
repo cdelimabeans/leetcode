@@ -5,11 +5,9 @@
  * @return {number}
  */
 
-/**
- * Status: Accepted
- * Runtime: 4528ms
- * Runtime rank: 26.32%
- */
+// Status: Accepted
+// Runtime: 4528ms
+// Percentile rank: 26.32%
 
 // var wordsTyping = function(sentence, rows, cols) {
 //     var count = 0;
@@ -48,6 +46,9 @@
 //
 //     return count
 // };
+
+// Optimized solution
+// Status: In Progress
 
 var wordsTyping = function(sentence, rows, cols){
     var complete = sentence.join(' ');

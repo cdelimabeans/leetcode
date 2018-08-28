@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 152ms
+// Percentile Rank: 90.23%
+
 /**
  * @param {number[]} temperatures
  * @return {number[]}

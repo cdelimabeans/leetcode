@@ -1,7 +1,12 @@
+// Status: Accepted
+// Runtime: 220ms
+// Percentile Rank: 52.12%
+
 /**
  * @param {number[][]} grid
  * @return {number}
  */
+
 var islandPerimeter = function(grid) {
     var perimeter = 0;
     var x = 0;

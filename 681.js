@@ -1,12 +1,10 @@
+// Status: Accepted
+// Runtime: 52ms
+// Percentile Rank: 100%
+
 /**
  * @param {string} time
  * @return {string}
- */
-
-/**
- * Status: Accepted
- * Runtime: 52ms
- * Runtime rank: 100%
  */
 
 var nextClosestTime = function(time) {

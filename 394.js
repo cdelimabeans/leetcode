@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 52ms
+// Percentile Rank: 82.42%
+
 /**
  * @param {string} s
  * @return {string}

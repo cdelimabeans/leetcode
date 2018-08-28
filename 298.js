@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 88ms
+// Percentile Rank: 44.19%
+
 /**
  * Definition for a binary tree node.
  * function TreeNode(val) {

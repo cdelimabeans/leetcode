@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 56ms
+// Percentile Rank: 52.21%
+
 /**
  * @param {string[][]} equations
  * @param {number[]} values

@@ -11,6 +11,10 @@
  * @return {ListNode}
  */
 
+// Status: Accepted
+// Runtime: 116ms
+// Percentile Rank: 83.49%
+
 function ListNode(val) {
      this.val = val;
      this.next = null;

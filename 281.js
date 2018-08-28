@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 80ms
+// Percentile Rank: 68.42%
+
 /**
  * @constructor
  * @param {Integer[]} v1
