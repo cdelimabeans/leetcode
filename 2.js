@@ -1,3 +1,7 @@
+// Status: Accepted
+// Runtime: 116ms
+// Percentile Rank: 83.49%
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {
@@ -5,15 +9,13 @@
  *     this.next = null;
  * }
  */
+
 /**
  * @param {ListNode} l1
  * @param {ListNode} l2
  * @return {ListNode}
  */
 
-// Status: Accepted
-// Runtime: 116ms
-// Percentile Rank: 83.49%
 
 function ListNode(val) {
      this.val = val;
