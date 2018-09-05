@@ -160,7 +160,7 @@ var mergeKListsWithArray = function(lists){
     return result.length > 0 ? result[0] : []
 }
 
-// Using Divide and Conquer
+// Using Divide and Conquer Using Recursion
 // Status: Accepted
 // Runtime: 88ms
 // Percentile Rank: 91.13%
